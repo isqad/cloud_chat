@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "907609170604",
+    "firebase_url": "https://cloudchat-68044.firebaseio.com",
+    "project_id": "cloudchat-68044",
+    "storage_bucket": "cloudchat-68044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907609170604:android:ccd08cd238b2957e",
+        "android_client_info": {
+          "package_name": "co.poputka.cloudchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907609170604-tvv5qhfh5bscloqk1qa8g8jdfqq3a62t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.poputka.cloudchat",
+            "certificate_hash": "a31c18502bf3646cf10079a6f6ef9b1d54133f3a"
+          }
+        },
+        {
+          "client_id": "907609170604-lprv81igfd8shnrrhen8rbvu19lbd2gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeb5php0A3hivQQyJIRZTYuu8pDGXxq2Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907609170604-lprv81igfd8shnrrhen8rbvu19lbd2gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
